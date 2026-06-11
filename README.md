@@ -42,6 +42,9 @@ Passionate about building impactful technology solutions that solve real-world p
 * Web Development
 * Tech Career Guidance
 * Hackathons & Innovation
+<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 ### 📫 Reach Me At
 
@@ -71,7 +74,7 @@ I love turning ideas into products, and coffee into code ☕💻
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=buildwithshlok&theme=github_dark_dimmed&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️  Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
