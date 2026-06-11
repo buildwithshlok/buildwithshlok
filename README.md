@@ -41,7 +41,8 @@ Passionate about building impactful technology solutions that solve real-world p
 * Smart India Hackathon (SIH)
 * Web Development
 * Tech Career Guidance
-* Hackathons & Innovation<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+* Hackathons & Innovation
+
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 ### 📫 Reach Me At
