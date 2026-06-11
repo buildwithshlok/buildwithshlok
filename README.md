@@ -23,6 +23,7 @@ Passionate about building impactful technology solutions that solve real-world p
 * Advanced Backend Development
 * System Design & Scalable Architectures
 * FastAPI, Cloud Technologies, and DevOps
+<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
 
 ### 👯 Open to Collaborate On
 
